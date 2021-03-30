@@ -2,7 +2,7 @@
 
 ## Servings: 4
 
-## Time to prepare: 
+## Time to prepare: 45 minutes
 
 ## Ingredients:
 Eggs
@@ -22,3 +22,4 @@ Pan
 ### Codemates #
 @ofeklavian
 @sean-mccoy-haas
+@chasethompson1992
