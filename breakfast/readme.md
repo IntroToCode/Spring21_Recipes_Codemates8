@@ -1,4 +1,4 @@
-# Replace with recipe name
+# Scrambled eggs / Omelette dish
 
 ## Servings: 4
 
