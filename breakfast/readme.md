@@ -5,16 +5,16 @@
 ## Time to prepare: 25 minutes
 
 ## Ingredients:
-Eggs
+Eggs <br/>
 Olive oil
 
 ## Equipment needed:
-Spatula
+Spatula <br/>
 Pan
 
 ## Steps for preparation:
-Step 1: crack half a dozen eggs into a bowl
-Step 2: add 2 tbsp olive oil to pan
+Step 1: crack half a dozen eggs into a bowl <br/>
+Step 2: add 2 tbsp olive oil to pan <br/>
 Step 3: scramble eggs!
 
 
@@ -23,6 +23,6 @@ Step 3: scramble eggs!
 
 
 ### Codemates #
-@ofeklavian
-@sean-mccoy-haas
+@ofeklavian <br/>
+@sean-mccoy-haas <br/>
 @chasethompson1992
