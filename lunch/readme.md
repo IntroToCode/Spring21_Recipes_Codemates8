@@ -1,13 +1,18 @@
-# Replace with recipe name
+# Turkey sandwich
 
-## Servings: 
+## Servings: 4
 
-## Time to prepare: 
+## Time to prepare: 20 minutes
 
 ## Ingredients:
-
+Turkey <br/>
+Bread <br/>
+Lettuce <br/>
+Tomato
 
 ## Equipment needed:
+Hands <br/>
+Knife
 
 
 ## Steps for preparation:
@@ -19,3 +24,4 @@
 
 
 ### Codemates #
+@sean-mccoy-haas
