@@ -5,13 +5,13 @@
 ## Time to prepare: 45 minutes 
 
 ## Ingredients:
-Chicken (raw)
-Panko Bread Crumbs
-barbeque sauce
-honey mustard sauce
-ketchup
-regular mustard
-ranch
+Chicken (raw) <br/>
+Panko Bread Crumbs <br/>
+barbeque sauce <br/>
+honey mustard sauce <br/>
+ketchup <br/>
+regular mustard <br/>
+ranch <br/>
 sweet and sour sauce
 
 ## Equipment needed:
