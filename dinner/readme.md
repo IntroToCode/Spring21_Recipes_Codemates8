@@ -34,6 +34,6 @@ Step 6: Dip in sauces of choice<br/>
 
 
 ### Codemates #
-@ofeklavian
-@sean-mccoy-haas
+@ofeklavian </br>
+@sean-mccoy-haas </br>
 @chasethompson1992
