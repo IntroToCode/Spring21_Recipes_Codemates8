@@ -6,15 +6,17 @@
 
 ## Ingredients:
 Eggs
+Olive oil
 
 ## Equipment needed:
 Spatula
 Pan
-Olive oil
 
 ## Steps for preparation:
 Step 1: crack half a dozen eggs into a bowl
-Step 2: lorem ipsum
+Step 2: add 2 tbsp olive oil to pan
+Step 3: scramble eggs!
+
 
 ### Notes:
 
