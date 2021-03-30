@@ -8,7 +8,8 @@
 Eggs
 
 ## Equipment needed:
-
+Spatula
+Pan
 
 ## Steps for preparation:
 
@@ -20,3 +21,4 @@ Eggs
 
 ### Codemates #
 @ofeklavian
+@sean-mccoy-haas
