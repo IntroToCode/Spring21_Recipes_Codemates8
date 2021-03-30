@@ -1,8 +1,8 @@
-# Scrambled eggs / Omelette dish
+# Scrambled eggs
 
 ## Servings: 4
 
-## Time to prepare: 
+## Time to prepare: 25 minutes
 
 ## Ingredients:
 Eggs
@@ -23,3 +23,4 @@ Step 2: lorem ipsum
 ### Codemates #
 @ofeklavian
 @sean-mccoy-haas
+@chasethompson1992
