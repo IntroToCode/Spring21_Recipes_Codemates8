@@ -2,7 +2,7 @@
 
 ## Servings: 4
 
-## Time to prepare: 45 minutes
+## Time to prepare: 
 
 ## Ingredients:
 Eggs
@@ -10,10 +10,11 @@ Eggs
 ## Equipment needed:
 Spatula
 Pan
+Olive oil
 
 ## Steps for preparation:
-
-
+Step 1: crack half a dozen eggs into a bowl
+Step 2: lorem ipsum
 
 ### Notes:
 
@@ -22,4 +23,3 @@ Pan
 ### Codemates #
 @ofeklavian
 @sean-mccoy-haas
-@chasethompson1992
