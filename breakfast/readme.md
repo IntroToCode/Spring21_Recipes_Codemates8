@@ -1,11 +1,11 @@
 # Replace with recipe name
 
-## Servings: 
+## Servings: 4
 
 ## Time to prepare: 
 
 ## Ingredients:
-
+Eggs
 
 ## Equipment needed:
 
