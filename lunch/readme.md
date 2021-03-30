@@ -30,4 +30,5 @@ Please enjoy responsibly
 
 ### Codemates #
 @sean-mccoy-haas <br/>
-@ofeklavian
+@ofeklavian <br/>
+@chasethompson1992
