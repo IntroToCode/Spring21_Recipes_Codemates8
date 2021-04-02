@@ -13,7 +13,8 @@ Tomato
 
 ## Equipment needed:
 Hands <br/>
-Knife
+Knife <br/>
+Plate
 
 
 ## Steps for preparation:
@@ -31,4 +32,5 @@ Please enjoy responsibly
 ### Codemates #
 @sean-mccoy-haas <br/>
 @ofeklavian <br/>
-@chasethompson1992
+@chasethompson1992 <br/>
+@lsahn
