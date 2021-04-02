@@ -18,7 +18,8 @@ vegetable oil
 ## Equipment needed:
 blender <br/>
 frier <br/>
-wire drying rack
+wire drying rack <br/>
+oven
 
 ## Steps for preparation:
 Step 1: Put chicken in blender <br/>
@@ -36,4 +37,5 @@ Step 6: Dip in sauces of choice<br/>
 ### Codemates #
 @ofeklavian </br>
 @sean-mccoy-haas </br>
-@chasethompson1992
+@chasethompson1992 </br>
+@lsahn
