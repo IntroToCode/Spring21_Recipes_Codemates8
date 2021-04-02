@@ -6,7 +6,8 @@
 
 ## Ingredients:
 Eggs <br/>
-Olive oil
+Olive oil <br/>
+Salt
 
 ## Equipment needed:
 Spatula <br/>
@@ -25,4 +26,5 @@ Step 3: scramble eggs!
 ### Codemates #
 @ofeklavian <br/>
 @sean-mccoy-haas <br/>
-@chasethompson1992
+@chasethompson1992 <br/>
+@lsahn
