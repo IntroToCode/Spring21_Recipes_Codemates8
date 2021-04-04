@@ -24,7 +24,7 @@ oven
 ## Steps for preparation:
 Step 1: Put chicken in blender <br/>
 Step 2: Blend and form into desirable nugget shapes <br/>
-Step 3: Coat in bread crumbs
+Step 3: Coat in bread crumbs<br/>
 Step 4: Fry in 2 inches of vegetable oil, 10 nuggets at a time<br/>
 Step 5: Drain on wire rack<br/>
 Step 6: Dip in sauces of choice<br/>
