@@ -13,8 +13,7 @@ Tomato
 
 ## Equipment needed:
 Hands <br/>
-Knife <br/>
-Plate
+Knife
 
 
 ## Steps for preparation:
@@ -23,7 +22,7 @@ step 2: take your knife and spread mayo on the face of one piece of bread <br/>
 step 3: slice tomato <br/>
 step 4: put sliced tomato, turkey, and lettuce on the bread <br/>
 step 5: take the remaining slice of bread and put it on top to make your sandwhich <br/>
-steph 6: enjoy!
+step 6: enjoy!
 
 ### Notes:
 Please enjoy responsibly
