@@ -12,22 +12,18 @@ honey mustard sauce <br/>
 ketchup <br/>
 regular mustard <br/>
 ranch <br/>
-sweet and sour sauce <br/>
-vegetable oil
+sweet and sour sauce
 
 ## Equipment needed:
 blender <br/>
-frier <br/>
-wire drying rack <br/>
 oven
 
 ## Steps for preparation:
 Step 1: Put chicken in blender <br/>
 Step 2: Blend and form into desirable nugget shapes <br/>
 Step 3: Coat in bread crumbs<br/>
-Step 4: Fry in 2 inches of vegetable oil, 10 nuggets at a time<br/>
-Step 5: Drain on wire rack<br/>
-Step 6: Dip in sauces of choice<br/>
+Step 4: Bake for 20 minutes<br/>
+Step 5: Let cool, and cip in sauces of choice
 
 
 ### Notes:
