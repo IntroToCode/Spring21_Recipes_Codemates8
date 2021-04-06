@@ -9,7 +9,8 @@ Turkey <br/>
 Bread <br/>
 Lettuce <br/>
 Mayo <br/>
-Tomato
+Tomato <br/>
+Special sauce
 
 ## Equipment needed:
 Hands <br/>
@@ -32,4 +33,5 @@ Please enjoy responsibly
 @sean-mccoy-haas <br/>
 @ofeklavian <br/>
 @chasethompson1992 <br/>
-@lsahn
+@lsahn <br/>
+@mchdan007
