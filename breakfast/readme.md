@@ -7,7 +7,8 @@
 ## Ingredients:
 Eggs <br/>
 Olive oil <br/>
-Salt
+Salt <br/>
+Pepper
 
 ## Equipment needed:
 Spatula <br/>
@@ -28,4 +29,5 @@ Step 4: salt to taste
 @ofeklavian <br/>
 @sean-mccoy-haas <br/>
 @chasethompson1992 <br/>
-@lsahn
+@lsahn <br/>
+@mchdan007 
