@@ -12,6 +12,7 @@ honey mustard sauce <br/>
 ketchup <br/>
 regular mustard <br/>
 ranch <br/>
+special sauce <br/>
 sweet and sour sauce
 
 ## Equipment needed:
@@ -34,4 +35,5 @@ Step 5: Let cool, and cip in sauces of choice
 @ofeklavian </br>
 @sean-mccoy-haas </br>
 @chasethompson1992 </br>
-@lsahn
+@lsahn <br/>
+@mchdan007
